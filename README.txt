@@ -26,3 +26,4 @@ LUNCH BREAK
 
 2:25pm
 Added a view for the HelloWorldController
+Changed the title, footer and menu link for the HelloWorldController view
