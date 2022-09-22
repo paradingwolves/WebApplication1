@@ -27,3 +27,15 @@ LUNCH BREAK
 2:25pm
 Added a view for the HelloWorldController
 Changed the title, footer and menu link for the HelloWorldController view
+
+2:50pm
+Added a view for the Welcome() method within the HelloWorldController
+added a foreach loop to the view to display someones name the same amount of times as the parameter given
+Made changes to Welcome() method
+
+Date Modified: 2022-09-22
+
+10:35am
+build is clean
+application works as expected
+
