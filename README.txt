@@ -33,9 +33,13 @@ Added a view for the Welcome() method within the HelloWorldController
 added a foreach loop to the view to display someones name the same amount of times as the parameter given
 Made changes to Welcome() method
 
-Date Modified: 2022-09-22
+Date Modified: 2022-09-27
 
 10:35am
 build is clean
 application works as expected
+added data model class ->Movie
+installed EntityFrameWorkCore (design and sqlserver)
+added migration (Add-Migration InitialCreate
+				Update-Database)
 
