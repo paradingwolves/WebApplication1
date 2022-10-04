@@ -84,4 +84,13 @@ updated database to include new field, and update existing records with a rating
 
 -- Started Part 9 --
  time to add validation
+ input validation added to all points of user input using the Movie.cs file (Movie Class)
 
+ -- Part 9 Completed --
+
+ 7:47pm
+
+ -- Started Part 10 --
+ nothing changed in part 10
+
+ -- Part 10 Completed --
