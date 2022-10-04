@@ -67,3 +67,15 @@ added search by genre functionality
 created a view model for the movie genre search
 
 -- Part 7 Completed -- 
+
+10:45am
+
+-- Started Part 8 -- 
+
+Added a Rating property to the Movie model
+added property in MoviesController.cs binding for the new field I created for rating in Models/Movie.cs
+updated Views/Movies/Create.cshtml to have a rating field
+updated SeedData to insert a rating into the seeded movies
+updated database to include new field, and update existing records with a rating
+
+-- Part 8 Completed --
