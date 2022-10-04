@@ -79,3 +79,9 @@ updated SeedData to insert a rating into the seeded movies
 updated database to include new field, and update existing records with a rating
 
 -- Part 8 Completed --
+
+7:35pm
+
+-- Started Part 9 --
+ time to add validation
+
